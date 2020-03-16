@@ -17,11 +17,15 @@ Ergo Cat is a customizable countdown timer that opens a random cat gif in your b
 9. That's it! Go about doing what you normally do on your computer. When the time is up, you should see a random cat gif take over your screen. Then you know it's time to take a break!
 10. You can rerun the program by repeat steps 6 & 7. Or, you can use a shortcut by pressing the ↑ arrow on your keyboard: this will show you the last command you ran.  
 
-<b>Customize the length of your timer</b> \
+<b>Customize the length of your timer</b>
 1. Open <code>ergo-cat-v2.py</code> using a text editor of your choice (TextEdit comes pre-installed on Macs, I like TextMate)
 2. On line 12, change the number in the variable <code>seconds = int(1800)</code> to the any number of seconds you like (20 minutes = 1200 seconds, 30 minutes = 1800 seconds, etc)
-3. Save
+3. Save file
 4. Run the program from Terminal
 
-<b>Customize your gifs</b> \
+<b>Customize your gifs</b>
 1. Open <code>ergo-cat-v2.py</code> using a text editor of your choice (TextEdit comes pre-installed on Macs, I like TextMate)
+2. On line 26, locate <code>randomCatFetchURL = "http://api.giphy.com/v1/gifs/random?api_key=GUCeL1CQLcZdYsiIkRkfwOMvBL9lJoza&tag=cat"</code>
+3. Change the string <code>cat</code> at the end of the long jumbly link to anything you like (<code>dog</code> for dog gifs, <code>birb</code> for birbs, etc)
+4. Save file
+5. Run program from Terminal
