@@ -3,6 +3,9 @@ Ergo Cat's job is to interrupt your desktop screen time so that you take a break
 
 Ergo Cat is a customizable countdown timer that opens a random cat gif in your browser window (from giphy.com) at the end of a designated time (say, 20 minutes).
 
+<b>Authors</b>
+Ying Ying Liu, Harry Sanabria
+
 <b>How to use (Mac OS): written for the non-engineer</b> \
 (Sorry, I don't know how to do this on Windows. If you do, feel free to contribute to this file!) 
 1. Download the file <code>ergo-cat-v2.py</code>
