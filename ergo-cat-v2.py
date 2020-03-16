@@ -9,7 +9,7 @@ import webbrowser
 import time
 
 #set countdown time in seconds
-seconds = int(1800)
+seconds = int(1200)
 
 #ranged loop to count downwards 
 for i in range(seconds):
