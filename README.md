@@ -22,7 +22,7 @@ Ying Ying Liu, Harry Sanabria
 
 <b>Customize the length of your timer</b>
 1. Open <code>ergo-cat-v2.py</code> using a text editor of your choice (TextEdit comes pre-installed on Macs, I like TextMate)
-2. On line 12, change the number in the variable <code>seconds = int(1800)</code> to the any number of seconds you like (20 minutes = 1200 seconds, 30 minutes = 1800 seconds, etc)
+2. On line 12, change the number in the variable <code>seconds = int(1200)</code> to the any number of seconds you like (20 minutes = 1200 seconds, 30 minutes = 1800 seconds, etc)
 3. Save file
 4. Run the program from Terminal
 
