@@ -6,7 +6,7 @@ Ergo Cat is a customizable countdown timer that opens a random cat gif in your b
 <b>Authors</b>\
 Ying Ying Liu, Harry Sanabria
 
-<b>How to use (Mac OS): written for the non-engineer</b> \
+<b>How to use (Mac OS)</b> \
 (Sorry, I don't know how to do this on Windows. If you do, feel free to contribute to this file!) 
 1. Download the file <code>ergo-cat-v2.py</code>
 2. Drag the file to your Desktop \
